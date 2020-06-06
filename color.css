@@ -1,0 +1,139 @@
+/* vintage hue color scheme below */
+.jellyBean{color:rgb(224, 91, 75)}
+.tigerEye{color:rgb(224, 147, 54)}
+.sunRay{color:rgb(218, 181, 82)}
+.cookiesCream{color:rgb(219, 217, 166)}
+.darkSeaGreen{color:rgb(135, 180, 156)}
+.winterGreenDream{color:rgb(75, 138, 126)}
+
+/* =========================== */
+
+.melon{color:rgb(247, 193, 173)}
+.silverLakeBlue{color:rgb(103, 144, 182)}
+.metallicBlue{color:rgb(53, 92, 124)}
+.opal{color:rgb(165, 203, 192)}
+
+/* =========================== */
+
+.purpleNavy{color:rgb(70, 84, 132)}
+.americanBlue{color:rgb(53, 64, 101)}
+.goldCrayola{color:rgb(221, 203, 147)}
+.darkPastelRed{color:rgb(194, 73, 47)}
+.mediumVermilion{color:rgb(217, 87, 52)}
+
+/* =========================== */
+    /* time to travel palette */
+
+.foliage-foreground:{color:rgb(25, 57, 44)}
+.foliage-background:{color:rgb(69, 111, 61)}
+.sea{color:rgb(87, 146, 166)}
+.seaDarkShade{color:rgb(76, 131, 152)}
+.seaLightShade{color:rgb(137, 173, 187)}
+.sand{color:rgb(235, 176, 59)}
+.mountain{color:rgb(199, 115, 51)}
+.mountainLightShade{color:rgb(209, 140, 71)}
+.mountainDarkShade{color:rgb(176, 90, 41)}
+.sky{color:rgb(236, 175, 0)}
+.sun{color:rgb(255, 238, 108)}
+.cloud{color:rgb(207, 148, 44)}
+
+/* ===================================== */
+
+/* HOGWARTS TRAVEL POSTER 'AT NIGHT' BELOW*/
+.fullMoon{color:rgb(249,194,85)}
+.field{color:rgb(64,115,173)}
+.shadow{color:rgb(38,59,99)}
+.castle{color:rgb(219,83,46)}
+
+/* HOGWARTS TRAVEL POSTER 'AT NIGHT' ABOVE*/
+
+/* ===================================== */
+
+/* TATOOINE TRAVEL ==========POSTER BELOW */
+
+.foreground-dark{background-color:rgb(112,71,95)}
+.landscape-medium{background-color:rgb(113,71,95)}
+.background-dark{background-color:rgb(196,113,119)}
+.landscape-light{background-color:rgb(196,113,119)}
+.background-medium{background-color:rgb(226,136,124)}
+.background-light{background-color:rgb(196,113,119)}
+.sky-light{background-color:rgb(247,160,132)}
+.sky-dark{background-color:rgb(248,150,105)}
+.cloud{background-color: rgb(255,247,224)}
+.sun{background-color: rgb(246,140,86)}
+.moon{background-color: rgb(255,244,216)}
+
+/* TATOOINE TRAVEL ==========POSTER ABOVE */
+
+h1{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Metal Mania', cursive;
+}
+
+h2 {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Metal Mania', cursive;
+}
+
+h3 {
+    color: rgb(35, 175, 152);
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Metal Mania', cursive;
+}
+
+.list-group-item{
+    font-family: 'Metal Mania', cursive;
+
+}
+
+.jumbotron{
+/* background-image: url("../images\pepesilvia.gif"); */
+/* background-size: cover;
+background-repeat: no-repeat; */
+background-color: rgb(236, 175, 0);
+}
+
+.div-iframe{
+    width:100%;
+    height:300px;
+    /* padding-bottom:100%; */
+    text-align: center;
+}
+
+iframe{
+    width:100%; 
+    height:100%; 
+    object-fit:fill;
+    margin-left:auto;
+    margin-right:auto;
+    float :none;
+}
+
+/* EMPLOYEE CARD RELATED BELOW */
+
+.card{
+    background-color: rgb(87, 146, 166);
+} 
+
+.employee-card{
+    background-color:rgb(194, 73, 47);
+}
+                  
+.card-header{
+                        
+}
+
+.card-title{
+    background-color: red;
+}
+
+.card-body{
+    background-color: rgb(38,59,99);
+}
+  
+/* EMPLOYEE CARD RELATED ABOVE */

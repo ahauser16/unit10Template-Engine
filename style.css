@@ -1,0 +1,72 @@
+h1{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Metal Mania', cursive;
+}
+
+h2 {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Metal Mania', cursive;
+}
+
+h3 {
+    color: rgb(35, 175, 152);
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Metal Mania', cursive;
+}
+
+.list-group-item{
+    font-family: 'Metal Mania', cursive;
+
+}
+
+.jumbotron{
+/* background-image: url("../images\pepesilvia.gif"); */
+/* background-size: cover;
+background-repeat: no-repeat; */
+background-color: rgb(236, 175, 0);
+}
+
+.div-iframe{
+    width:100%;
+    height:300px;
+    /* padding-bottom:100%; */
+    text-align: center;
+}
+
+iframe{
+    width:100%; 
+    height:100%; 
+    object-fit:fill;
+    margin-left:auto;
+    margin-right:auto;
+    float :none;
+}
+
+/* EMPLOYEE CARD RELATED BELOW */
+
+.card{
+    background-color: rgb(87, 146, 166);
+} 
+
+.employee-card{
+    background-color:rgb(194, 73, 47);
+}
+                  
+.card-header{
+                        
+}
+
+.card-title{
+    background-color: red;
+}
+
+.card-body{
+    background-color: rgb(38,59,99);
+}
+  
+/* EMPLOYEE CARD RELATED ABOVE */
