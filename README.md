@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Unit 10 Homework: Template Engine - Employee Summary
 
 
@@ -138,7 +137,6 @@ n/a
 [7]: https://www.tutorialspoint.com/jquery/jquery-dom.htm
 [8]: https://www.tutorialspoint.com/ajax/ajax_in_action.htm
 [9]: https://www.contributor-covenant.org/
-=======
-# unit10Template-Engine
-unit10Template-Engine
->>>>>>> bd3d080d01f1024b9f6b6eaa18959b762d941fe2
+
+
+
